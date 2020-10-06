@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ohmmeter-rescue)(type Legacy)(uri ${KIPRJMOD}/ohmmeter-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,251 @@
+Cmp-Mod V01 Created by PcbNew   date = 11/02/2020 16:28:46
+
+BeginCmp
+TimeStamp = 5E431F6A
+Path = /5E6DA9F7
+Reference = J3;
+ValeurCmp = ISP;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E432934
+Path = /5E445215
+Reference = BT1;
+ValeurCmp = 18650;
+IdModule  = Battery:BatteryHolder_MPD_BH-18650-PC2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E42E17E
+Path = /5E4B1E9F
+Reference = RV1;
+ValeurCmp = 22k;
+IdModule  = Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E432332
+Path = /5E487EF1
+Reference = L2;
+ValeurCmp = 10uH;
+IdModule  = Inductor_SMD:L_6.3x6.3_H3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E42E1FE
+Path = /5E4203AE
+Reference = U3;
+ValeurCmp = TP4056;
+IdModule  = JLegs:TP4056;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E431F21
+Path = /5E41733F
+Reference = U2;
+ValeurCmp = MCP1640BCH;
+IdModule  = TO_SOT_Packages_SMD:SOT-23-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E43200E
+Path = /5E4141FC
+Reference = U1;
+ValeurCmp = ATMEGA88PA-MU;
+IdModule  = Package_QFP:TQFP-32_7x7mm_P0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E42E19D
+Path = /5E43321D
+Reference = SW1;
+ValeurCmp = SW_Push;
+IdModule  = Button_Switch_THT:SW_PUSH_6mm_H5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E43208A
+Path = /5E7146EF
+Reference = R14;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E42E156
+Path = /5E4D1413
+Reference = R13;
+ValeurCmp = 220;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E43220A
+Path = /5E43B67D
+Reference = R12;
+ValeurCmp = 22k;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E431E2C
+Path = /5E437019
+Reference = R11;
+ValeurCmp = 68k;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E431E5C
+Path = /5E4358F0
+Reference = R10;
+ValeurCmp = 47k;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E4321AA
+Path = /5E43B9A7
+Reference = R9;
+ValeurCmp = 47k;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E4320EA
+Path = /5E5675E7
+Reference = R8;
+ValeurCmp = 100;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E43211A
+Path = /5E570DBE
+Reference = R7;
+ValeurCmp = 220;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E43217A
+Path = /5E56F3EA
+Reference = R6;
+ValeurCmp = 1k;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E4321DA
+Path = /5E56F8A3
+Reference = R5;
+ValeurCmp = 6k8;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E431E8C
+Path = /5E56FE2E
+Reference = R4;
+ValeurCmp = 47k;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E4320BA
+Path = /5E57037C
+Reference = R3;
+ValeurCmp = 330k;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E43214A
+Path = /5E53BB09
+Reference = R2;
+ValeurCmp = 1M;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E431EEC
+Path = /5E53A043
+Reference = R1;
+ValeurCmp = 1M;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E431FB8
+Path = /5E464598
+Reference = L1;
+ValeurCmp = 8u2;
+IdModule  = Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E42E02F
+Path = /5E634B48
+Reference = J1;
+ValeurCmp = DUT;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E42E019
+Path = /5E415F34
+Reference = DS1;
+ValeurCmp = LCD0802;
+IdModule  = JLegs:LCD0802;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E431EBC
+Path = /5E490590
+Reference = C6;
+ValeurCmp = 4u7;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E43223A
+Path = /5E460B42
+Reference = C5;
+ValeurCmp = 10uF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E43226A
+Path = /5E4B0ACC
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E43229A
+Path = /5E464ED6
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E4322CA
+Path = /5E494A80
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E4322FA
+Path = /5E469106
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+EndListe
