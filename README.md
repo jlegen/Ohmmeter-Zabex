@@ -1,5 +1,5 @@
 # Ohmmeter (Zabex)
-realtime ohm meter - shows value and the related E24 value in half a second
+realtime ohm meter - shows value and the related E24 value in half a second (or less)
 
 Maybe you always have a lot of loose resistors lying around after your breadboard experiments, 
 because sorting them back into the compartments is annoying and awkward.
