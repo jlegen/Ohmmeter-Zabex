@@ -8,5 +8,6 @@ Then this thing is for you...
 * original project: http://www.zabex.de/site/ohmmeter.html
 * modified for using LiIon cell: https://www.mikrocontroller.net/topic/489461
 * this version here is just a PCB to make it easy to build this little helper gadget; it uses a standard 0802 LCD display, which is easily available
+* the footprint of the MCP1640 seems a bit odd - pin 1 is at the lower right (see photo)
 
 ![ohm meter in action](/pcb/zabex_ohmmeter.jpeg)
